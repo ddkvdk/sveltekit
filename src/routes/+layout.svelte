@@ -32,7 +32,7 @@
       <input type="password" placeholder="Введите">
       <div class="auth__form-btns">
         <button type="submit">Войти</button>
-        <a href="#" onclick="signupToggle()">Зарегистрироваться</a>
+        <a href="/" onclick="signupToggle()">Зарегистрироваться</a>
       </div>
     </form>
   </div>
