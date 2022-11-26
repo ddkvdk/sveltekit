@@ -357,11 +357,6 @@
               <div class="contact__text">qwertuipp15@gmail.com</div>
             </div>
             <div class="contact__block">
-              <div class="contact__map">
-                <iframe
-                  src="https://yandex.ru/map-widget/v1/?um=constructor%3Aa5a663e08dee1a5571e70b5d42213cb15f1fcb0413e609d0bd7877f38c7b4aaf&amp;source=constructor"
-                  width="832" height="500" frameborder="0"></iframe>
-              </div>
             </div>
           </div>
         </div>
