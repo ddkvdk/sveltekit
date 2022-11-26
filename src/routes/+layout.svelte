@@ -370,7 +370,6 @@
     <div class="footer__container _container">
       <div class="footer__body">
         <div class="footer__block">
-          <a href="#main" class="footer__logo"></a>
           <ul class="footer__navigaion">
             <li><a href="#main">Главная</a></li>
             <li><a href="#service">О сервисе</a></li>
