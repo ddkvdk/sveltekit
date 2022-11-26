@@ -101,7 +101,7 @@
               <div class="main__text-wrap">
                 <div class="main__text text-2level">Открытая площадка с комментированием работы ИП</div>
               </div>
-              <a href="map.php" class="main__btn">Узнать Больше <div class="main__btn-icon"></div></a>
+              <a href="/" class="main__btn">Узнать Больше <div class="main__btn-icon"></div></a>
               <div class="main__el-wrapper">
                 <div class="main__el"></div>
                 <div class="main__el"></div>
